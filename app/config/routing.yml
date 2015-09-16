@@ -1,0 +1,8 @@
+util_crawler:
+    resource: "@UtilCrawlerBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
